@@ -4,6 +4,7 @@ library(dplyr)
 library(ggplot2)
 
 # membaca dataset
+# sumber: https://www.kaggle.com/datasets/raghavramasamy/crop-statistics-fao-all-countries/data
 fao_data <- read.csv("D:/Tugas/daming_s2/Crops_AllData_Normalized.csv")
 
 # menampilkan 5 baris teratas
